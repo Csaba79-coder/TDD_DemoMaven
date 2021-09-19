@@ -1,0 +1,10 @@
+= Import to pom.xml
+
+
+the website:
+
+https://mvnrepository.com/artifact/junit/junit
+
+'''
+
+With the link above you can copy and paste the dependencies to pom.xml file!
